@@ -116,7 +116,7 @@ j exc
 2) Use Vivado to synthesis, implementation, generate bitstream and program to board, 
    remember to load the [test program](./code/test_prog.coe) file.
 
-<img src=".\resources\1.PNG" width="600"/>
+<img src=".\resources\1.png" width="600"/>
 
 3) Press button N17 to reset, and release to get the results of the program
 
